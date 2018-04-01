@@ -17,6 +17,6 @@ Because this project requires Logisim software for hardware design, first we nee
 
 Then, please download the following jar file because Logisim will ask for this library in order to work properly:&nbsp;[cs316.jar](https://www.cs.cornell.edu/courses/cs316/2006fa/projects123/cs316.jar)
 
-#### For more detailed questions, you can contact me at this email address: msarac13@ku.edu.tr &nbsp;&nbsp;:email:
+#### For more detailed questions, you can contact us at this email addresses: msarac13@ku.edu.tr || mcibik13@ku.edu.tr &nbsp;&nbsp;:email:
 
 
